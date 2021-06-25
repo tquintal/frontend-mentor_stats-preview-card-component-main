@@ -12,10 +12,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tquintal/frontend-mentor_stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-stats-preview-card-component-main.vercel.app/)
+- [Solution](https://github.com/tquintal/frontend-mentor_stats-preview-card-component-main)
+- [Live site](https://frontend-mentor-stats-preview-card-component-main.vercel.app/)
 
 ## Author
 
-- Website - [Add your name here](https://github.com/tquintal/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tquintal)
+- [Website](https://github.com/tquintal/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/tquintal)
